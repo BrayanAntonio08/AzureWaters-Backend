@@ -1,0 +1,12 @@
+C:\Users\asistenteuiit3\Documents\ProyectosVisualStudio\AzureWaters_API\AzureWaters-Backend\AzureWaters-Backend\AW.EntidadesDTO\bin\Debug\net6.0\AW.EntidadesDTO.deps.json
+C:\Users\asistenteuiit3\Documents\ProyectosVisualStudio\AzureWaters_API\AzureWaters-Backend\AzureWaters-Backend\AW.EntidadesDTO\bin\Debug\net6.0\AW.EntidadesDTO.dll
+C:\Users\asistenteuiit3\Documents\ProyectosVisualStudio\AzureWaters_API\AzureWaters-Backend\AzureWaters-Backend\AW.EntidadesDTO\bin\Debug\net6.0\AW.EntidadesDTO.pdb
+C:\Users\asistenteuiit3\Documents\ProyectosVisualStudio\AzureWaters_API\AzureWaters-Backend\AzureWaters-Backend\AW.EntidadesDTO\obj\Debug\net6.0\AW.EntidadesDTO.csproj.AssemblyReference.cache
+C:\Users\asistenteuiit3\Documents\ProyectosVisualStudio\AzureWaters_API\AzureWaters-Backend\AzureWaters-Backend\AW.EntidadesDTO\obj\Debug\net6.0\AW.EntidadesDTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asistenteuiit3\Documents\ProyectosVisualStudio\AzureWaters_API\AzureWaters-Backend\AzureWaters-Backend\AW.EntidadesDTO\obj\Debug\net6.0\AW.EntidadesDTO.AssemblyInfoInputs.cache
+C:\Users\asistenteuiit3\Documents\ProyectosVisualStudio\AzureWaters_API\AzureWaters-Backend\AzureWaters-Backend\AW.EntidadesDTO\obj\Debug\net6.0\AW.EntidadesDTO.AssemblyInfo.cs
+C:\Users\asistenteuiit3\Documents\ProyectosVisualStudio\AzureWaters_API\AzureWaters-Backend\AzureWaters-Backend\AW.EntidadesDTO\obj\Debug\net6.0\AW.EntidadesDTO.csproj.CoreCompileInputs.cache
+C:\Users\asistenteuiit3\Documents\ProyectosVisualStudio\AzureWaters_API\AzureWaters-Backend\AzureWaters-Backend\AW.EntidadesDTO\obj\Debug\net6.0\AW.EntidadesDTO.dll
+C:\Users\asistenteuiit3\Documents\ProyectosVisualStudio\AzureWaters_API\AzureWaters-Backend\AzureWaters-Backend\AW.EntidadesDTO\obj\Debug\net6.0\refint\AW.EntidadesDTO.dll
+C:\Users\asistenteuiit3\Documents\ProyectosVisualStudio\AzureWaters_API\AzureWaters-Backend\AzureWaters-Backend\AW.EntidadesDTO\obj\Debug\net6.0\AW.EntidadesDTO.pdb
+C:\Users\asistenteuiit3\Documents\ProyectosVisualStudio\AzureWaters_API\AzureWaters-Backend\AzureWaters-Backend\AW.EntidadesDTO\obj\Debug\net6.0\ref\AW.EntidadesDTO.dll
